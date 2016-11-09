@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+	<title>Contact ListApp</title>
+</head>
+<body>
+	<div class="container" ng-controller="AppCtrl">
+		<h1>Contact List</h1>
+		<table class="table">
+			<thread>
+				<tr>
+					<th>Name</th>
+					<th>Email</th>
+					<th>Number</th>
+				</tr>
+			</thread>
+		</table>
+	</div>
+<input ng-model="test">
+{{test}}
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+<script src="controllers/controller.js"></script>
+</body>
+</html>

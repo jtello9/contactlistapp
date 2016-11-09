@@ -1,0 +1,40 @@
+//Text title = new Text("DOG");
+        //root.getChildren().add(title);
+        
+   /*
+                Here we will change the scence to show all the games and 
+                tutorials in the game library
+                We will need to find each runner in the 'library' folder
+                then create an array of each, then create two buttons, one for
+                it's tutorial and one for the gamedriver. 
+                */
+                
+                    
+                    //ADD IMAGE FOR GAME
+
+                    //ADD TEXT AREA WITH GAME NAME??
+   /*
+                    Button tb = new Button();
+                    tb.setText("Tutorial");
+                    tb.setOnAction(new EventHandler<ActionEvent>() {
+
+                        public void handle(ActionEvent event) {
+                            Tutorial tutor = new Tutorial();
+                            tutor.start(primaryStage);
+                        }
+                    });
+                    tile.getChildren().add(tb);
+                    */
+                    
+ /*
+                 Here we will change the scence to show all the games and 
+                 tutorials in the game library
+                 We will need to find each runner in the 'library' folder
+                 then create an array of each, then create two buttons, one for
+                 it's tutorial and one for the gamedriver. 
+                 */
+                 
+                 
+                 
+                    //ADD IMAGE FOR GAME
+                    //ADD TEXT AREA WITH GAME NAME

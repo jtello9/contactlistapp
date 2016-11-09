@@ -1,0 +1,7 @@
+// db.contactlist.remove({})
+// db.contactlist.remove({name: "sadafsdf"})
+// db.contactlist.update({name: "millary flinton"}, {name: "hillary flinton", email:"leaked", number:3123 }})
+
+git commit -m "fewfefwe"
+
+add commit push
